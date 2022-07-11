@@ -1,13 +1,15 @@
 # NSUM-Sample-Size
 This repository contains code supporting the text "A sample size formula for network scale-up studies"
 
-To appear in _Sociological Methods & Research_: https://arxiv.org/abs/2111.09684
+## Citation
 
-# Reproducing results
+Josephs, Nathaniel, Dennis M. Feehan, and Forrest W. Crawford. "A sample size formula for network scale-up studies." arXiv preprint arXiv:2111.09684 (2022+). To appear in _Sociological Methods & Research_
 
-All of the R code is self contained and can be run to reproduce the corresponding figure in the text
+## Reproducing results
 
-## Figures
+All of the R code is self contained and can be run to reproduce the corresponding figure/table in the text
+
+### Figures
 
 | Figure | File |
 |:----- |:-----------|
@@ -19,19 +21,19 @@ All of the R code is self contained and can be run to reproduce the correspondin
 
 
 
-## Tables
+### Tables
 
 | Table | File |
 |:----- |:-----------|
 | 1  | NSUM_retrospective.R |
 
-# Data
+## Data
 
-## File
+### File
 
 * NSUM_retrospective.csv
 
-## References
+### References
 
 Ezoe, Satoshi, et al. "Population size estimation of men who have sex with men through the network scale-up method in Japan." PloS one 7.1 (2012): e31184.
 
