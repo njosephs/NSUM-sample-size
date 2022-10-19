@@ -1,9 +1,11 @@
 # NSUM-Sample-Size
 This repository contains code supporting the text "A sample size formula for network scale-up studies"
 
+https://journals.sagepub.com/doi/abs/10.1177/00491241221122576
+
 ## Citation
 
-Josephs, Nathaniel, Dennis M. Feehan, and Forrest W. Crawford. "A sample size formula for network scale-up studies." arXiv preprint arXiv:2111.09684 (2022+). To appear in _Sociological Methods & Research_
+Josephs, Nathaniel, Dennis M. Feehan, and Forrest W. Crawford. "A sample size formula for network scale-up studies." (2022). _Sociological Methods & Research_.
 
 ## Reproducing results
 
